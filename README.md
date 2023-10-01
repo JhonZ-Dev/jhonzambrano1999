@@ -17,7 +17,7 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/jhonZambrano1999/spring-boot_concesionaria_autos_en_memoria.git">
+    <a href="https://github.com/jhonZambrano1999/spring-boot_concesionaria_autos_en_memoria">
      <img src="https://github.com/jhonZambrano1999/spring-boot_concesionaria_autos_en_memoria" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
