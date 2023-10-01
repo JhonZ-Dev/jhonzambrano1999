@@ -1,6 +1,10 @@
 # 💫 About Me:
 ¡Hola, soy Jhon Zambrano. Un apasionado programador que prospera bajo presión y ama enfrentar desafíos técnicos emocionantes. Mi código es mi lienzo y la lógica, mi pincel. Me encanta aprender, evolucionar y, sobre todo, compartir mi conocimiento con los demás.
-<div></div>
+<div>
+  <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+      alt="android" width="40" height="40" /> </a></p>
+</div>
 <div>
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Jhon+Zambrano/Develpment :heartbeat:"></a>
