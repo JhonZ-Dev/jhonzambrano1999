@@ -18,7 +18,7 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/jhonZambrano1999/spring-boot_concesionaria_autos_en_memoria.git">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+     <img src="https://github.com/jhonZambrano1999/spring-boot_concesionaria_autos_en_memoria" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
