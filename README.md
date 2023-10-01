@@ -2,6 +2,15 @@
 
 ¡Hola, soy [Tu Nombre]! Un apasionado programador que prospera bajo presión y ama enfrentar desafíos técnicos emocionantes. Mi código es mi lienzo y la lógica, mi pincel. Me encanta aprender, evolucionar y, sobre todo, compartir mi conocimiento con los demás.
 
+<div>
+  
+</div>
+<div>
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Jhon+Zambrano/Develpment,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+</div>
+
 ### ¿Qué puedo hacer por ti? 🚀
 
 - 🌟 **Programación bajo presión:** La presión no me asusta, la aprovecho como una oportunidad para demostrar mi creatividad y destreza técnica. Creo soluciones robustas cuando más se necesitan.
