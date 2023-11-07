@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola, soy Jhon Zambrano. Un apasionado programador que prospera bajo presión y ama enfrentar desafíos técnicos emocionantes. Mi código es mi lienzo y la lógica, mi pincel. Me encanta aprender, evolucionar y, sobre todo, compartir mi conocimiento con los demás.
+Hello, I'm Jhon Zambrano. A passionate programmer who thrives under pressure and loves taking on exciting technical challenges. My code is my canvas and logic is my brush. I love learning, evolving and, above all, sharing my knowledge with others.
 <div>
 </div>
 <div>
